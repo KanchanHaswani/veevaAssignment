@@ -1,0 +1,9 @@
+/Volumes/Amdocs/Workspace/nba-automation-framework 2/automation-framework/src/main/java/com/nba/framework/assertions/BaseAssertion.java
+/Volumes/Amdocs/Workspace/nba-automation-framework 2/automation-framework/src/main/java/com/nba/framework/utils/ScreenshotUtils.java
+/Volumes/Amdocs/Workspace/nba-automation-framework 2/automation-framework/src/main/java/com/nba/framework/hooks/CucumberHooks.java
+/Volumes/Amdocs/Workspace/nba-automation-framework 2/automation-framework/src/main/java/com/nba/framework/utils/FileUtils.java
+/Volumes/Amdocs/Workspace/nba-automation-framework 2/automation-framework/src/main/java/com/nba/framework/pages/BasePage.java
+/Volumes/Amdocs/Workspace/nba-automation-framework 2/automation-framework/src/main/java/com/nba/framework/driver/StealthUtils.java
+/Volumes/Amdocs/Workspace/nba-automation-framework 2/automation-framework/src/main/java/com/nba/framework/driver/DriverUtils.java
+/Volumes/Amdocs/Workspace/nba-automation-framework 2/automation-framework/src/main/java/com/nba/framework/config/ConfigManager.java
+/Volumes/Amdocs/Workspace/nba-automation-framework 2/automation-framework/src/main/java/com/nba/framework/driver/DriverManager.java
